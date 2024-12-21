@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/requestDemo/requestDemo"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "onReachBottomDistance": 500
+  },
+  "usingComponents": {}
+}

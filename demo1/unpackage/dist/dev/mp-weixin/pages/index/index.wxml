@@ -1,0 +1,1 @@
+<view class="content"><user-info wx:for="{{a}}" wx:for-item="item" u-i="{{item.a}}" bind:__l="__l" u-p="{{item.b}}"></user-info></view><button bindtap="{{b}}">年级</button><button bindtap="{{c}}">停止</button><button bindtap="{{d}}">跳转到demo4</button>

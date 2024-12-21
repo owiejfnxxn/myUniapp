@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "user-info": "../../components/userInfo/userInfo"
+  }
+}

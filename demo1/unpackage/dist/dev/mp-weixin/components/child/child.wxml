@@ -1,0 +1,1 @@
+<view class="data-v-e16c615f"> 子组件 <button class="data-v-e16c615f" bindtap="{{a}}">按钮</button><input class="data-v-e16c615f" bindinput="{{b}}"/></view>

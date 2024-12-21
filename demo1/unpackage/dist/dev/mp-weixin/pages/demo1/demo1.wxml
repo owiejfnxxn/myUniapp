@@ -1,0 +1,1 @@
+<view class=""><layout u-s="{{['header','main']}}" u-i="52adeb5a-0" bind:__l="__l"><view slot="header"> demo1的头部 </view><view slot="main"> demo1的身体 </view></layout></view>

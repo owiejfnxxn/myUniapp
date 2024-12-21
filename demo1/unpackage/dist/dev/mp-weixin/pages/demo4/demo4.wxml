@@ -1,0 +1,1 @@
+<view class="out data-v-a524b516"><view class="data-v-a524b516">这是demo4</view><button class="data-v-a524b516" bindtap="{{a}}">返回</button><view wx:for="{{b}}" wx:for-item="item" class="userInfo data-v-a524b516"><view class="userId data-v-a524b516">{{item.a}}</view><view class="title data-v-a524b516">{{item.b}}</view></view></view>

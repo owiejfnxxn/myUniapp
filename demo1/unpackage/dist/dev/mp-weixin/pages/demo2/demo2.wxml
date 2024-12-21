@@ -1,0 +1,1 @@
+<view class=""><layout u-s="{{['header','main']}}" u-i="6b9bd495-0" bind:__l="__l"><view slot="header"> demo22222 </view><view slot="main"> demo222222st </view></layout></view>
